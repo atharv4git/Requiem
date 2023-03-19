@@ -53,6 +53,6 @@ If you would like to contribute to Requiem, please open a pull request or issue 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE]("https://github.com/atharv4git/Requiem/blob/master/LICENSE") file for more details.
 
 Just replace yourusername in the installation instructions with your actual GitHub username.
