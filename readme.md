@@ -22,8 +22,8 @@ Requiem is a web scraping tool built in Python using only the `requests` library
 To install Requiem, clone this repository and install the required dependencies:
 
 ```commandline
-git clone https://github.com/yourusername/requiem.git
-cd requiem
+git clone https://github.com/atharv4git/Requiem.git
+cd Requiem
 pip install -r requirements.txt
 ```
 or
@@ -54,5 +54,3 @@ If you would like to contribute to Requiem, please open a pull request or issue 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE]("https://github.com/atharv4git/Requiem/blob/master/LICENSE") file for more details.
-
-Just replace yourusername in the installation instructions with your actual GitHub username.
